@@ -17,7 +17,7 @@ burger.addEventListener('click', () => {
 // });
  
 // let time = 20;
-// (time > 18) ? console.log("Good day.") : console.log("Good evening.");
+// (time < 18) ? console.log("Good day.") : console.log("Good evening.");
 
 
 
