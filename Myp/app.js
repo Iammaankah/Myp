@@ -5,9 +5,6 @@ burger.addEventListener('click', () => {
   navigationBar.classList.toggle('active');
 });
 
-// burger.addEventListener('click', () => {
-// alert("you clicked")
-// })
 
 
 
