@@ -11,8 +11,4 @@ burger.addEventListener('click', () => {
 
 
 
-// let Services = document.querySelector(".container");
-// Services.addEventListener('click', () => {
-//   // document.body.style.background = "#FF70FD"
-// });
  
